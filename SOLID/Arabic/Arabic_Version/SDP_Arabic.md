@@ -1,0 +1,1 @@
+https://ar.wikipedia.org/wiki/SOLID_(%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D9%83%D8%A7%D8%A6%D9%86%D9%8A_%D8%A7%D9%84%D9%85%D9%86%D8%AD%D9%89)
