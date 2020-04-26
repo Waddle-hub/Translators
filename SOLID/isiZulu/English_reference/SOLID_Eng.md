@@ -1,1 +1,1 @@
-https://en.wikipedia.org/wiki/Software_design_pattern
+https://en.wikipedia.org/wiki/SOLID
