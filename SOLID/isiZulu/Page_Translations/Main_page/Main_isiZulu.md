@@ -13,7 +13,7 @@ Ukuguqukela kokuxhomekeka
 
 V.T.E
 
-Kuhlelo lwamakhompiyutha olwenzelwe into, i-SOLID isichazamazwi se-mnemonic sezinqubomgomo ezinhlanu zokuklama okuhloswe ngazo ukwenza ukwakheka kwesoftware kuqondakale kalula, kube nokuguquguquka futhi kuqondakale kalula. Ayihlobene nemigomo yokwakhiwa kwesoftware ye-GRASP. Lezi zimiso zingaphansi kwezinkambiso eziningi ezithuthukiswa ngunjiniyela wesoftware waseMelika u-Robert C. Martin. [1] [2] [3] Noma zisebenza kunoma yikuphi ukwakheka okusekwe entweni, imigomo ye-SOLID nayo ingakha ifilosofi eyisisekelo yezindlela ezinjengokuthuthuka okudala noma ukuthuthukiswa kwesoftware ehambisanayo. [3] Umbono wemigomo ye-SOLID wethulwa nguMartin ekhasini lakhe le-2000 Design Principles and Design Patterns, [2] [4] yize isigaxa se-SOLID sangeniswa kamuva nguMichael Feather. [5]
+Kuhlelo lwamakhompiyutha olwenzelwe into, i-SOLID (Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion) isichazamazwi se-mnemonic sezinqubomgomo ezinhlanu zokuklama okuhloswe ngazo ukwenza ukwakheka kwesoftware kuqondakale kalula, kube nokuguquguquka futhi kuqondakale kalula. Ayihlobene nemigomo yokwakhiwa kwesoftware ye-GRASP. Lezi zimiso zingaphansi kwezinkambiso eziningi ezithuthukiswa ngunjiniyela wesoftware waseMelika u-Robert C. Martin. [1] [2] [3] Noma zisebenza kunoma yikuphi ukwakheka okusekwe entweni, imigomo ye-SOLID nayo ingakha ifilosofi eyisisekelo yezindlela ezinjengokuthuthuka okudala noma ukuthuthukiswa kwesoftware ehambisanayo. [3] Umbono wemigomo ye-SOLID wethulwa nguMartin ekhasini lakhe le-2000 Design Principles and Design Patterns, [2] [4] yize isigaxa se-SOLID sangeniswa kamuva nguMichael Feather. [5]
 
 Imiqondo
 
