@@ -35,3 +35,7 @@ Amaphethini akhetheilw wesizinda
 Kwenziwe futhi imizamo yokuhlanganisa amaphethini wokuqamba ezizindeni ezithile, kufaka phakathi ukusetshenziswa kwamaphethini wokuqamba akhona kanye namaphethini wokuqamba wesizinda esithile. Izibonelo zifaka amaphethini esakhiwo sokusebenziseka komsebenzisi,  ukubonwa kolwazi,  idizayini evikelekile,  "ukusebenziseka okuphephile",  ukwakhiwa kwewebhu  nokuklama imodeli yebhizinisi. 
 
 Izilimi zonyaka zeKhethini Yezinhlelo Zokuhlela  zifaka izibonelo eziningi zamaphethini akhethekile wesizinda.
+
+Ukuhlanganisa nohlu
+
+Amaphethini wemiklamo ahlukaniswe ngezigaba ezi-3 ezisuselwa kuhlobo lwenkinga azixazululelayo. Amaphethini wokudala anika amandla okwenza izinto ngokusekelwe indlela edingekayo nangendlela elawulwayo. Amaphethini ezakhiwo akhuluma ngokuhlela amakilasi ahlukene nezinto zokwakha izakhiwo ezinkulu nokunikeza ukusebenza okusha. Ekugcineni, izindlela zokuziphatha zimayelana nokuhlonza amaphethini wokuxhumana ajwayelekile phakathi kwezinto futhi aqaphele lamaphethini.
