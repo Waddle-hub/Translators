@@ -24,3 +24,7 @@ Ukuze uzuze ukuguquguquka, amaphethini wokuqamba avame ukwethula amazinga ongeze
 Ngokwencazelo, iphethini kufanele ihlelwe kabusha ohlelweni ngalunye olusebenzisayo. Njengoba abanye ababhali bebona lokhu njengesinyathelo esibuyela emuva ekusebenzeni kabusha kwesoftware njengoba kunikezwe izakhi, abacwaningi basebenze ukuguqula amaphethini abe yizakhi. UMeyer no-Arnout bakwazile ukuhlinzeka ngezakhi eziphelele noma ngokwengxenye zezingxenye ezimbili kwezintathu zamaphethini abazama ngayo. 
 
 Amasu wokuqamba amasoftware kunzima ukuwasebenzisa ebangeni lezinkinga ezibanzi.   Amaphethini wokuqamba anikezela ngezixazululo ezijwayelekile, ezibhalwe ngefomethi engadingi imininingwane eboshelwe enkingeni ethile.
+
+Isakhiwo
+
+Amaphethini wokuqamba akhiwa izigaba eziningana (bona §  Imibhalo engezansi). Okuthakazelisa kakhulu yizigaba zoBumbano, Ababambiqhaza kanye nezigaba Zokusebenzisana. Lezi zingxenye zichaza motif design : a prototypical micro-architecture ukuthi onjiniyela bakopisha futhi bazivumelanise nemiklamo yabo ethile ukuxazulula inkinga esetshenziswayo echazwe yiphethini yokuqamba. Isakhiwo esincanyana senhlanganyela seqoqo lezindawo zohlelo (isib, amakilasi, izindlela ...) kanye nobudlelwano bawo. Abathuthukisi basebenzisa iphethini lokuklama ngokwazisa kumiklamo yabo le-prototypical micro-architecture, okusho ukuthi izakhiwo ezincane ezakhiweni zazo zizoba nesakhiwo nenhlangano efana ne-design motif ekhethiwe.
