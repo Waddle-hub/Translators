@@ -28,3 +28,10 @@ Amasu wokuqamba amasoftware kunzima ukuwasebenzisa ebangeni lezinkinga ezibanzi.
 Isakhiwo
 
 Amaphethini wokuqamba akhiwa izigaba eziningana (bona §  Imibhalo engezansi). Okuthakazelisa kakhulu yizigaba zoBumbano, Ababambiqhaza kanye nezigaba Zokusebenzisana. Lezi zingxenye zichaza motif design : a prototypical micro-architecture ukuthi onjiniyela bakopisha futhi bazivumelanise nemiklamo yabo ethile ukuxazulula inkinga esetshenziswayo echazwe yiphethini yokuqamba. Isakhiwo esincanyana senhlanganyela seqoqo lezindawo zohlelo (isib, amakilasi, izindlela ...) kanye nobudlelwano bawo. Abathuthukisi basebenzisa iphethini lokuklama ngokwazisa kumiklamo yabo le-prototypical micro-architecture, okusho ukuthi izakhiwo ezincane ezakhiweni zazo zizoba nesakhiwo nenhlangano efana ne-design motif ekhethiwe.
+
+Amaphethini akhetheilw wesizinda
+
+
+Kwenziwe futhi imizamo yokuhlanganisa amaphethini wokuqamba ezizindeni ezithile, kufaka phakathi ukusetshenziswa kwamaphethini wokuqamba akhona kanye namaphethini wokuqamba wesizinda esithile. Izibonelo zifaka amaphethini esakhiwo sokusebenziseka komsebenzisi,  ukubonwa kolwazi,  idizayini evikelekile,  "ukusebenziseka okuphephile",  ukwakhiwa kwewebhu  nokuklama imodeli yebhizinisi. 
+
+Izilimi zonyaka zeKhethini Yezinhlelo Zokuhlela  zifaka izibonelo eziningi zamaphethini akhethekile wesizinda.
