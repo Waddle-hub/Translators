@@ -58,3 +58,9 @@ Ukuqaliswa: Ukuchazwa kokusetshenziswa kwephethini; ingxenye yesisombululo sepha
 Ikhodi Eyisibonelo: Umzekeliso wendlela iphethini elingasetshenziswa ngayo olimini lwezinhlelo.
 Ukusetshenziswa okwaziwayo: Izibonelo zokusetshenziswa kwangempela kwephethini.
 Amaphethini ahlobene: Amanye amaphethini anobuhlobo obuthile nephethini; ukuxoxa ngomehluko phakathi kwephethini namaphethini afanayo.
+
+Ukugxekwa
+
+Kuqashelwe ukuthi amaphethini wokuqamba angaba nje uphawu lokuthi ezinye izici zishoda ngolimi olunikeziwe lwezinhlelo ( iJava noma i- C ++ ngokwesibonelo). UPeter Norvig ukhombisa ukuthi amaphethini ayi-16 kwayi -23 asencwadini ye- Design Patterns (ebhekiswe kakhulu ku-C ++) ayenziwa lula noma aqedwe (ngosizo oluqondile lolimi) eLisp noma iDylan .  Ukubukwa okuhlobene nakho kwenziwa nguHannemann noKiczales abasebenzise amaphethini amaningi wokuqamba angama-23 besebenzisa ulimi olususelwa kuzinhlelo (AspectJ) futhi bakhombisa ukuthi ukuncika kwezinga lekhodi kususwe ekusetshenzisweni kwamaphethini wokuqamba we-17 kwayi-23 nokuthi isisekelo-esigxile izinhlelo zingenza lula ukwenziwa kwamaphethini wokuqamba. Template:Ifsubst Bheka futhi nendatshana kaPaul Graham ethi "Revenge of the Nerds". 
+
+Ukusetshenziswa okungafanele kwamaphethini kungandisa ukuxaka okungadingekile. 
