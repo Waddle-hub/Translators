@@ -43,3 +43,18 @@ Amaphethini wemiklamo ahlukaniswe ngezigaba ezi-3 ezisuselwa kuhlobo lwenkinga a
 Imibhalo
 
 Imibhalo yephethini lokuklama ichaza umongo lapho iphethini isetshenziswa khona, amandla ngaphakathi komongo iphethini elifuna ukuwaxazulula, kanye nekhambi eliphakanyisiwe.  Akukho fomethi eyodwa, ejwayelekile yamaphethini wokuklama. Esikhundleni salokho, izinhlobo ezahlukahlukene zisetshenziswe ngababhali bephethini abahlukile. Kodwa-ke, ngokusho kukaMartin Fowler, izinhlobo ezithile zamaphethini ziye zaziwa kakhulu kunabanye, futhi ngenxa yalokho zaba ngamaphuzu okuqala ajwayelekile emizamo emisha yokubhala iphethini.  Isibonelo esisodwa sefomethi yemibhalo evame ukusetshenziswa yileso esisetshenziswa u- Erich Gamma, uRichard Helm, uRalph Johnson, noJohn Vlissides encwadini yabo Designamps . Inezingxenye ezilandelayo:
+
+Igama Lephethini Nokwehlukanisa: Igama elichazayo nelingafani elisiza ekuboneni nasekubhekiseleni kuphethini.
+
+Inhloso: Ukuchazwa kwenhloso ngemuva kwephethini nesizathu sokuyisebenzisa.
+Yaziwa Futhi ngokuthi: Amanye amagama wephethini.
+Ukugqugquzela (Amandla): Isimo esinezinkinga kanye nomongo lapho leli phethini lingasetshenziswa khona.
+Ukusebenza: Izimo lapho le ndlela isetshenziswa khona; umongo wephethini.
+Ukwakheka: Ukuboniswa okucacisayo kwephethini. Imidwebo yekilasi kanye nemidwebo yekusebenza ingasebenziselwa lenjongo.
+Ababambiqhaza: Uhlu lwamakilasi nezinto ezisetshenziswe kuphethini nezindima zawo ekwakhiweni.
+Ukusebenzisana: Incazelo yokuthi amakilasi nezinto ezisetshenziswe kuphethini zisebenzisana kanjani.
+Imiphumela: Incazelo yemiphumela, imiphumela emibi, nokuhweba okukhohlakele okubangelwa kusetshenziswa iphethini.
+Ukuqaliswa: Ukuchazwa kokusetshenziswa kwephethini; ingxenye yesisombululo sephathini.
+Ikhodi Eyisibonelo: Umzekeliso wendlela iphethini elingasetshenziswa ngayo olimini lwezinhlelo.
+Ukusetshenziswa okwaziwayo: Izibonelo zokusetshenziswa kwangempela kwephethini.
+Amaphethini ahlobene: Amanye amaphethini anobuhlobo obuthile nephethini; ukuxoxa ngomehluko phakathi kwephethini namaphethini afanayo.
