@@ -39,3 +39,7 @@ Izilimi zonyaka zeKhethini Yezinhlelo Zokuhlela  zifaka izibonelo eziningi zamap
 Ukuhlanganisa nohlu
 
 Amaphethini wemiklamo ahlukaniswe ngezigaba ezi-3 ezisuselwa kuhlobo lwenkinga azixazululelayo. Amaphethini wokudala anika amandla okwenza izinto ngokusekelwe indlela edingekayo nangendlela elawulwayo. Amaphethini ezakhiwo akhuluma ngokuhlela amakilasi ahlukene nezinto zokwakha izakhiwo ezinkulu nokunikeza ukusebenza okusha. Ekugcineni, izindlela zokuziphatha zimayelana nokuhlonza amaphethini wokuxhumana ajwayelekile phakathi kwezinto futhi aqaphele lamaphethini.
+
+Imibhalo
+
+Imibhalo yephethini lokuklama ichaza umongo lapho iphethini isetshenziswa khona, amandla ngaphakathi komongo iphethini elifuna ukuwaxazulula, kanye nekhambi eliphakanyisiwe.  Akukho fomethi eyodwa, ejwayelekile yamaphethini wokuklama. Esikhundleni salokho, izinhlobo ezahlukahlukene zisetshenziswe ngababhali bephethini abahlukile. Kodwa-ke, ngokusho kukaMartin Fowler, izinhlobo ezithile zamaphethini ziye zaziwa kakhulu kunabanye, futhi ngenxa yalokho zaba ngamaphuzu okuqala ajwayelekile emizamo emisha yokubhala iphethini.  Isibonelo esisodwa sefomethi yemibhalo evame ukusetshenziswa yileso esisetshenziswa u- Erich Gamma, uRichard Helm, uRalph Johnson, noJohn Vlissides encwadini yabo Designamps . Inezingxenye ezilandelayo:
