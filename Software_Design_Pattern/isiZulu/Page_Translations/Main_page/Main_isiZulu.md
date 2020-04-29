@@ -15,3 +15,12 @@ Amaphethini aqala njengomqondo wokwakha ngu -Christopher Alexander ekuqaleni kon
 
 Amaphethini okuklama athola ukuthandwa kusayensi yamakhompiyutha ngemuva kokuba incwadi Design Designs: Elements of Reusable Object-Oriented Software yashicilelwa ngonyaka we-1994 ngababizwa nge- "Gang of Four" (Gamma et al.), Esivame ukufushaniswa ngokuthi "GoF". Ngawo lowo nyaka, kwaqhutshwa inkomfa yokuqala yezilimi ezihleliwe, futhi ngonyaka olandelayo kwasungulwa iPortland Pattern Repository ukuze kube yimibhalo yamaphethini wokuqamba. Isilinganiso sethemu sihlala siyindaba yokuphikisana. Izincwadi eziphawuleka kunhlobo lwephethini yoyilo zifaka:
 
+Ukwenza
+
+Amaphethini wokuqamba angasheshisa inqubo yokuthuthuka ngokunikeza ubuhlakani bokuvivinya obufakazelwe.  Idizayini ephumelelayo yesoftware idinga ukucubungula izingqinamba ezingeke zibonakale kuze kamuva ekuqalisweni. Ikhodi esanda kubhalwa phansi ingahlala iba nezinkinga ezicashile ezithathe isikhathi ukuthi zitholwe, izingqinamba kwesinye isikhathi ezingadala izinkinga ezinkulu ngokuhamba kwesikhathi. Ukuphinda usebenzise amaphethini wokuqamba kusiza ukuvikela izindaba ezinjalo ezicashile   , futhi kuthuthukisa ukufundwa kwekhodi kwenzelwa abakhodi nabaklami abajwayele amaphethini.
+
+Ukuze uzuze ukuguquguquka, amaphethini wokuqamba avame ukwethula amazinga ongezekile we- indirection, kwezinye izimo angaphikisana nemiklamo evelayo futhi alimaze ukusebenza kwesicelo.
+
+Ngokwencazelo, iphethini kufanele ihlelwe kabusha ohlelweni ngalunye olusebenzisayo. Njengoba abanye ababhali bebona lokhu njengesinyathelo esibuyela emuva ekusebenzeni kabusha kwesoftware njengoba kunikezwe izakhi, abacwaningi basebenze ukuguqula amaphethini abe yizakhi. UMeyer no-Arnout bakwazile ukuhlinzeka ngezakhi eziphelele noma ngokwengxenye zezingxenye ezimbili kwezintathu zamaphethini abazama ngayo. 
+
+Amasu wokuqamba amasoftware kunzima ukuwasebenzisa ebangeni lezinkinga ezibanzi.   Amaphethini wokuqamba anikezela ngezixazululo ezijwayelekile, ezibhalwe ngefomethi engadingi imininingwane eboshelwe enkingeni ethile.
