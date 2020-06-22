@@ -16,7 +16,7 @@ o	egy token (objektum) „a példánya” kapcsolatban áll az ő típusával (o
 
 Példák
 Egyed-kapcsolat modell
-Adatbázisok esetén a has-a kapcsolatokat leggyakrabban az egyed-kapcsolat diagrammokkal ábrázolják. Ahogy azt a jobbra lévő ábra is mutatja, egy felhasználónak (account) akár többkarakterrel (character) is rendelkezhet. Ez reprezentálja, hogy az felhasználó „has-a” kapcsolatban áll a karakterrel, a felhasználónak van egy (több) karaktere.
+Adatbázisok esetén a has-a kapcsolatokat leggyakrabban az egyed-kapcsolat diagrammokkal ábrázolják. Ahogy azt a jobbra lévő ábra is mutatja, egy felhasználó (account) akár több karakterrel (character) is rendelkezhet. Ez reprezentálja, hogy az felhasználó „has-a” kapcsolatban áll a karakterrel, a felhasználónak van egy (több) karaktere.
 UML osztály diagram
 Objektum-orientált programozásban ezt a kapcsolatot jól lehet jellemezni a Unified Modeling Language osztálydiagrammal. Ez a fajta has-a kapcsolat kompozícióként is ismert. Ahogy ez az osztálydiagrammon is jól látszik, az autónak van egy karburátora, vagy az autó egy karburátorból „tevődik össze” (composed of -> composition, kompozíció). A fekete színű rombusz kompozíciót jelképez, vagyis a rombuszhoz közelebb eső tárgy a másik tárgyból áll, vagy tartalmazza azt. Eközben a fehér rombusz aggregációt jelöl, ami azt jelenti, hogy a rombuszhoz közelebb eső tárgy birtokolja a másik tárgyat.
 C++
