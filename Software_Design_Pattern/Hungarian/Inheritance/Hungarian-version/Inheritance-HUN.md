@@ -1,1 +1,1 @@
-.
+https://hu.wikipedia.org/wiki/%C3%96r%C3%B6kl%C5%91d%C3%A9s_(objektumorient%C3%A1lt_programoz%C3%A1s)
