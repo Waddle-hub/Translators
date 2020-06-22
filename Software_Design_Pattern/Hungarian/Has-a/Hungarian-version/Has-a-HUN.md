@@ -1,1 +1,1 @@
-.
+https://hu.wikipedia.org/wiki/Has-a
